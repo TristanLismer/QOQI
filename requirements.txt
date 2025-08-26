@@ -1,0 +1,16 @@
+# standard libraries
+qutip
+matplotlib
+numpy
+autograd
+scipy
+pandas
+seaborn
+bitstring   # for creating bit pattern strings for the time tagger
+tqdm  # for progress bars (useful for long running analysis code)
+ipython  # makes life easier with different IDEs
+
+cmcrameri  # excellent colorplots https://zenodo.org/record/5501399
+
+# library for easy parallel-processing (scales to large clusters very easily)
+ray
