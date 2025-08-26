@@ -1,3 +1,5 @@
+#Written by Benjamin MacLellan
+
 # QOQI Lab Control Software Suite
 
 ## Overview
